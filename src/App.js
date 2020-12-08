@@ -7,6 +7,7 @@ import MainLayout from './containers/home';
 function App() {
   return (
     <div className="App">
+      <logo/>
       <MainLayout>
 
 
